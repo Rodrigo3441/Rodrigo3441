@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate backend developer that is learning and studying a lot</h3>
 
-<p align="left"> <img src="https://clickjogos.netlify.app/oldimages/mark.gif" alt="rodrigo3441" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://clickjogos.netlify.app/oldimages/minisaul.gif" alt="rodrigo3441" /></a> </p>
+<p align="left"> <img src="https://clickjogos.netlify.app/oldimages/mark.gif" alt="rodrigo3441" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://clickjogos.netlify.app/oldimages/minisaul.gif" alt="rodrigo3441" /></a> </p>
 
 - 🔭 I’m currently working on **my university projects**
 
