@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://clickjogos.netlify.app/oldimages/mark.gif" alt="rodrigo3441" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigo3441" alt="rodrigo3441" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/user-attachments/assets/0a0e3963-19db-4a5b-b062-9cd85c223851" alt="rodrigo3441" /></a> </p>
 
 - 🔭 I’m currently working on **my university projects**
 
@@ -24,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo3441&show_icons=true&locale=en" alt="rodrigo3441" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo3441&" alt="rodrigo3441" /></p>
+
+<center><img width="170" height="54" alt="image" src="https://github.com/user-attachments/assets/f1fea7fd-80f0-41c1-a0cf-c2d8138ba1ca" /></center>
 
