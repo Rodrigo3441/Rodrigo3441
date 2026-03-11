@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://clickjogos.netlify.app/oldimages/mark.gif" alt="rodrigo3441" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/user-attachments/assets/0a0e3963-19db-4a5b-b062-9cd85c223851" alt="rodrigo3441" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://clickjogos.netlify.app/oldimages/minisaul.gif" alt="rodrigo3441" /></a> </p>
 
 - 🔭 I’m currently working on **my university projects**
 
