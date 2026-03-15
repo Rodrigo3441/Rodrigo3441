@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rodrigo3441/Rodrigo3441](https://github.com/Rodrigo3441/Rodrigo3441)
 
-- ⚡ Fun fact **I believe i'm learning**
+- ⚡ I want to become a Data Engineer
 
 
 <h3 align="left">Languages and Tools:</h3>
