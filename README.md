@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **my university projects** (Coursing Computer Science in Brazil)
 
-- 🌱 I’m currently learning **SQL, Python, Data Structures**
-
-- 📚 I'm studying MIT Programming course ["Introduction to CS and Programming using Python"](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
+- 🌱 I’m currently learning **Python for Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rodrigo3441/Rodrigo3441](https://github.com/Rodrigo3441/Rodrigo3441)
 
