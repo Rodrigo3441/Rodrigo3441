@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi 👋, I am Rodrigo</h1>
-<h3 align="left">A backend developer and data engineer that is learning and studying a lot</h3>
+<h1 align="left">I am Rodrigo</h1>
+<h3 align="left">A Computer Science student and a passionate data engineer that is learning and studying a lot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigo3441&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigo3441" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rodrigo3441/Rodrigo3441](https://github.com/Rodrigo3441/Rodrigo3441)
 
-- ⚡ I want to become a Data Engineer
+- ⚡ I want to work with Data
 
 
 <h3 align="left">Languages and Tools:</h3>
