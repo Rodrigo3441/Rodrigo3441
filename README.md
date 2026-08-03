@@ -20,5 +20,3 @@
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo3441&" alt="rodrigo3441" /></p><br><br>
-
-<center><img width="170" height="54" alt="image" src="https://github.com/user-attachments/assets/f1fea7fd-80f0-41c1-a0cf-c2d8138ba1ca" /></center>
