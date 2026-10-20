@@ -1,6 +1,6 @@
 
 <h1 align="left">I am Rodrigo</h1>
-<h3 align="left">A Computer Science student and a passionate data engineer that is learning and studying a lot</h3>
+<h3 align="left">a passionate software engineer and data engineer that is learning and studying a lot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigo3441&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigo3441" /> </p>
 
